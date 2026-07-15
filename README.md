@@ -1,8 +1,8 @@
 # Hi, I'm Adhithya SR 👋
 
-Mechanical Engineering undergraduate at **National Institute of Technology Karnataka (NITK), Surathkal** with a Minor in Computer Science.
+Mechanical Engineering undergraduate at National Institute of Technology Karnataka (NITK), Surathkal with a Minor in Computer Science and Engineering. Passionate about applying AI, simulation, and computational methods to solve real-world engineering problems.
 
-I enjoy combining Mechanical Engineering, AI, Machine Learning, and Simulation to solve real-world engineering problems.
+I enjoy combining Mechanical Engineering, Artificial Intelligence & Machine Learning , and Simulation to solve real-world engineering problems.
 
 ---
 
