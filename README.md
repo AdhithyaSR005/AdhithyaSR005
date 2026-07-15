@@ -1,17 +1,17 @@
 # Hi, I'm Adhithya SR 👋
 
-Mechanical Engineering undergraduate at National Institute of Technology Karnataka (NITK), Surathkal with a Minor in Computer Science and Engineering. Passionate about applying AI, simulation, and computational methods to solve real-world engineering problems.
+Mechanical Engineering undergraduate at **National Institute of Technology Karnataka (NITK), Surathkal** with a **Minor in Computer Science and Engineering**.
 
-I enjoy combining Mechanical Engineering, Artificial Intelligence & Machine Learning , and Simulation to solve real-world engineering problems.
+I'm passionate about applying **Artificial Intelligence, Machine Learning, Simulation, and Computational Engineering** to solve real-world engineering problems.
 
 ---
 
 ## 🎓 Education
 
-- B.Tech in Mechanical Engineering
-- National Institute of Technology Karnataka (NITK)
-- CGPA: **9.05**
-- Minor: Computer Science Engineering
+- **B.Tech in Mechanical Engineering**
+- National Institute of Technology Karnataka (NITK), Surathkal
+- **CGPA:** 9.05
+- **Minor:** Computer Science and Engineering
 
 ---
 
@@ -20,16 +20,14 @@ I enjoy combining Mechanical Engineering, Artificial Intelligence & Machine Lear
 ### 🏭 Production Powertrain Intern
 **Honda Motorcycle & Scooter India Pvt. Ltd.**
 
-- IC Engine & EV Powertrain Manufacturing
-- Production & Quality Control
+- Gained hands-on exposure to IC Engine and EV powertrain manufacturing.
+- Learned industrial quality control and standardized production practices.
 
 ### 🔬 Summer Undergraduate Research Intern
 **Indian Institute of Technology Hyderabad**
 
-- MATLAB
-- EPOD
-- SVD
-- Turbulent Flow Reconstruction
+- Developed MATLAB-based EPOD algorithms for turbulent flow reconstruction.
+- Improved reconstruction accuracy using SVD, temporal embedding, and filtering techniques.
 
 ---
 
@@ -45,11 +43,11 @@ I enjoy combining Mechanical Engineering, Artificial Intelligence & Machine Lear
 ### Engineering
 - ANSYS Mechanical
 - ANSYS Fluent
-- FEA
-- CFD
+- Finite Element Analysis (FEA)
+- Computational Fluid Dynamics (CFD)
 - Heat Transfer
 
-### AI / Machine Learning
+### Artificial Intelligence & Machine Learning
 - Scikit-learn
 - OpenCV
 - YOLOv8
@@ -60,22 +58,34 @@ I enjoy combining Mechanical Engineering, Artificial Intelligence & Machine Lear
 
 ## 🚀 Featured Projects
 
-- Sparse Sensor-Based Turbulent Flow Reconstruction
-- ML-Based Mechanical Condition Prediction
-- Fish Detection using YOLOv8
-- Thermal Analysis of Microchip Heat Sink
+- 🌊 Sparse Sensor-Based Turbulent Flow Reconstruction (EPOD)
+- ⚙️ ML-Based Mechanical Condition Prediction
+- 🐟 Fish Detection using YOLOv8
+- 🔥 Thermal Analysis of a Microchip Heat Sink
 
 ---
 
 ## 🌱 Currently Learning
 
-- AI Agents
-- DSA (NeetCode)
+- AI Agents & MCP
+- Data Structures and Algorithms (NeetCode)
 - Computational Mechanics
 
 ---
 
-## 📫 Connect
+## 🎯 Interests
 
-- LinkedIn: https://www.linkedin.com/in/adhithya-s-r-b2343021a/
-- GitHub: https://github.com/AdhithyaSR005
+- AI for Engineering
+- Engineering Simulation
+- Computer Vision
+- Computational Fluid Dynamics
+- Finite Element Analysis
+- Manufacturing Analytics
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/adhithya-s-r-b2343021a/
+- **GitHub:** https://github.com/AdhithyaSR005
+- **Email:** adhithyasr.241me106@nitk.edu.in
